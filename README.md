@@ -3,7 +3,6 @@
 
 
 # Degrees
-### Harvard CS50's Introduction to Artificial Intelligence with Python (Project 0)
 
 This project calculates how many "degrees of separation" apart two actors are.
 
